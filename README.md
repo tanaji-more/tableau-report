@@ -1,3 +1,3 @@
 # tableau-report
 
-In this report i'll did the basics Tableau straightaway. Here i did load some data, analyse it, create some charts and prepare a dashboard with Tableau.
+In this report, I performed basic operations in Tableau. I loaded data, analyzed it, created charts, and prepared a dashboard using Tableau.
